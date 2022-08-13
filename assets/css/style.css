@@ -36,6 +36,7 @@ header{
 .color{
     color: red;
 }
-.ml{
+.margin{
     margin-right: 20px;
+    margin-left: 20px;
 }
