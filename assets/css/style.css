@@ -21,6 +21,9 @@ header{
     background-size: cover;
     background-position: center;
 }
+.tamaño{
+    width: 50%;
+}
 .gap{
     gap: 2rem;
 }
@@ -35,13 +38,9 @@ header{
     border-radius: 100%;
 }
 .description{
-    height: 25px;
+    height: 100px;
     overflow: hidden;
     transition: height .3s ease-in .3s;
-}
-.description:hover{
-    cursor: pointer;
-    height: 100px;
 }
 .carrito{
     min-height: 80vh;
